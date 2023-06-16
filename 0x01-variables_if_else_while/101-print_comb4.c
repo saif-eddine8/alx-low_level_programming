@@ -2,7 +2,6 @@
 
 /**
  * main - Entry point
- *
  * Return: Always 0 (Success)
 */
 
@@ -36,7 +35,6 @@ int main(void)
 				}
 				++digit3;
 			}
-			B
 			++digit2;
 		}
 		++digit1;
